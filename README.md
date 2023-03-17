@@ -9,9 +9,20 @@ Minimal API - Autenticação e Autorização com Bearer e JWT
 ## Sobre o projeto
 Este projeto mostra como trabalhar com autenticação e autorização Bearer e JWT em uma minimal API.
 
+Fazer Requisições: https://www.postman.com/
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/54154628/225976057-aa6f15e8-ed64-4ccf-ab3e-52b1f346153a.png" height="500px" width="800px"</img>
+    <img src="https://user-images.githubusercontent.com/54154628/225976411-86516303-34b2-4e1f-8573-c1eae812ffee.png" height="500px" width="800px"</img>
+</div>
+
+<br />
+
 Inspecionar Token: https://jwt.io/
 
-Fazer Requisições: https://www.postman.com/
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/54154628/225980739-0b526b57-a584-4320-ba9f-43ab959b3490.png"</img>
+</div>
 
 ## Referências
 https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-7.0/
