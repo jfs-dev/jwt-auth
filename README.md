@@ -12,10 +12,9 @@ Este projeto mostra como trabalhar com autenticação e autorização Bearer e J
 Fazer Requisições: https://www.postman.com/
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/54154628/225976057-aa6f15e8-ed64-4ccf-ab3e-52b1f346153a.png" height="500px" width="800px"</img>
-    <img src="https://user-images.githubusercontent.com/54154628/225976411-86516303-34b2-4e1f-8573-c1eae812ffee.png" height="500px" width="800px"</img>
+    <img src="https://user-images.githubusercontent.com/54154628/225976057-aa6f15e8-ed64-4ccf-ab3e-52b1f346153a.png"</img>
+    <img src="https://user-images.githubusercontent.com/54154628/225976411-86516303-34b2-4e1f-8573-c1eae812ffee.png"</img>
 </div>
-
 <br />
 
 Inspecionar Token: https://jwt.io/
